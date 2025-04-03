@@ -1,4 +1,4 @@
-# Azure_Synapse_Analytics
+]]]# Azure_Synapse_Analytics
 
 ## Azure Synapse Analytics Setup and Usage
 This project includes data processing and analysis steps using Azure Synapse Analytics. Below is a summary of the performed tasks.
