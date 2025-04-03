@@ -6,7 +6,7 @@ This project includes data processing and analysis steps using Azure Synapse Ana
 -Opened Cloud Shell in the Azure portal and selected the PowerShell environment.
 -Cloned the required repository and executed the setup script.
 -Opened Synapse Studio and verified the components.
-![](screenshots/Schermafbeelding2.png)
+![a](screenshots/Schermafbeelding2.png)
 ![](screenshots/Schermafbeelding3.png)
 ![](screenshots/Schermafbeelding4.png)
 ## 2. Data Ingestion and Processing
